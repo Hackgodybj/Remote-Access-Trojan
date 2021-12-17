@@ -1,4 +1,5 @@
 `Windows Remote Access Trojan (RAT) using .NET Sockets`
+`This tool is in developement phase so, apologies for encounter with Bugs.`
 
 Client-server binaries and source-code for controlling a remote machine behind a NAT with a command-line shell in Windows. Although the core provides support for communication with multiple RATs, the command-line interface used has limited capabilities distinguishing each one.
 
@@ -15,3 +16,5 @@ rat ip=[controller-ip-address] port=[controller-port-default-is-9999]
 controller ip=[listen-ip-address] port=[listen-port-default-is-9999]
 
 3. Issue commands from the controller.exe interface
+
+
