@@ -1,4 +1,4 @@
-`Windows Remote Access Trojan (RAT) using .NET Sockets`
+# Windows Remote Access Trojan (RAT) using .NET Sockets
 
 Client-server binaries and source-code for controlling a remote machine behind a NAT with a command-line shell in Windows. Although the core provides support for communication with multiple RATs, the command-line interface used has limited capabilities distinguishing each one.
 
